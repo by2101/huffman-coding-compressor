@@ -1,0 +1,5 @@
+﻿  Driver.cpp
+c:\users\ye bai\documents\study\algorithm\huffmancodecompress\huffmancodecompress\cmprdecmp.h(136): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+c:\users\ye bai\documents\study\algorithm\huffmancodecompress\huffmancodecompress\cmprdecmp.h(148): warning C4715: “decodeHuff”: 不是所有的控件路径都返回值
+  HuffmanCodeCompress.vcxproj -> C:\Users\Ye Bai\Documents\STUDY\Algorithm\HuffmanCodeCompress\Debug\HuffmanCodeCompress.exe
+  HuffmanCodeCompress.vcxproj -> C:\Users\Ye Bai\Documents\STUDY\Algorithm\HuffmanCodeCompress\Debug\HuffmanCodeCompress.pdb (Partial PDB)

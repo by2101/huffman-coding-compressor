@@ -1,0 +1,8 @@
+﻿  Driver.cpp
+c:\users\ye bai\documents\study\algorithm\huffmancodecompress\huffmancodecompress\CmprDecmp.h(136): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码
+c:\users\ye bai\documents\study\algorithm\huffmancodecompress\huffmancodecompress\cmprdecmp.h(148): warning C4715: “decodeHuff”: 不是所有的控件路径都返回值
+  All 510 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HuffmanCodeCompress.vcxproj -> C:\Users\Ye Bai\Documents\STUDY\Algorithm\HuffmanCodeCompress\Release\HuffmanCodeCompress.exe
+  HuffmanCodeCompress.vcxproj -> C:\Users\Ye Bai\Documents\STUDY\Algorithm\HuffmanCodeCompress\Release\HuffmanCodeCompress.pdb (Full PDB)
